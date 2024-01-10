@@ -29,7 +29,7 @@ entries:
     type: application
     urls:
     - https://github.com/Yu-Jack/charts/releases/download/harvester-cloud-provider-0.2.2.1/harvester-cloud-provider.zip
-    version: 0.2.2.1
+    version: 0.2.2
   - annotations:
       catalog.cattle.io/certified: rancher
       catalog.cattle.io/display-name: Harvester Cloud Provider
